@@ -1,0 +1,9 @@
+route_id,service_id,trip_id,trip_headsign,shape_id,direction_id
+POLLO,S1,T1,Lindenberg,LINDENBERG,0
+POLLO,S2,T2,Mesendorf,MESENDORF,1
+POLLO,S3,T3,Lindenberg,LINDENBERG,0
+POLLO,S4,T4,Mesendorf,MESENDORF,1
+POLLO,S5,T5,Lindenberg,LINDENBERG,0
+POLLO,S6,T6,Mesendorf,MESENDORF,1
+POLLO,S7,T7,Lindenberg,LINDENBERG,0
+POLLO,S8,T8,Mesendorf,MESENDORF,1
