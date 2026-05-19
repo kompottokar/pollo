@@ -1,7 +1,0 @@
-stop_id,stop_name,stop_desc,stop_lat,stop_lon,stop_timezone
-MESSENDORF,Mesendorf,"Havelberger Str. Mesendorf 58, 16928 Pritzwalk",53.0923086,12.1220362,Europe/Berlin
-KLENZENHOF,Klenzenhof Hp,,53.0812201,12.1080948,Europe/Berlin
-BRUENKENDORF,Brünkendorf,,53.0681533,12.1333043,Europe/Berlin
-VETTIN,Vettin Hp,,53.0376175,12.1433375,Europe/Berlin
-LINDENBERG,Lindenberg,"Lindenberg 9, 16928 Groß Pankow (Prignitz)",53.0334332,12.1307077,Europe/Berlin
-
