@@ -1,2 +1,0 @@
-agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_email
-POLLO,Pollo Museumsbahn,https://pollo.de/,Europe/Berlin,de,+49 33982 60128,info@pollo.de
