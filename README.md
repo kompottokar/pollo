@@ -1,3 +1,3 @@
-This project is the schedule for the ‘Prignitz Kleinbahnmuseum’ in GTFS format and is intended for integration into Transitous. Further operating days will follow.
+This project is the schedule for the ‘Prignitzer Kleinbahnmuseum’ in GTFS format and is intended for integration into Transitous. Further operating days will follow. Currently, files are created manually.
 
 The schedule: https://www.pollo.de/fahrbetrieb#fahrplan
